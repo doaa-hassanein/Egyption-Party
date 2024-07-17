@@ -1,0 +1,4 @@
+      $(this).next().slideUp();
+
+            $('.panel')..not(this).slideToggle();
+            // فتح المحتوى الذي يتبع العنوان المنقر
